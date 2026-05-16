@@ -1,6 +1,5 @@
 # 💫 About Me:
-A Smart Peer-Matching platform for study groups using Flask, PostgreSQL, and Vue.js.<br>I'm looking to collaborate on: Student-focused productivity or education tech projects.<br>I'm looking for help with: Improving my frontend development and mastering cloud deployment (Render, GitHub Actions).<br>Ask me about: Organizing codebases, Python scripts, or student productivity tools.<br>Fun fact: I really really like soccer and analyzing games
-
+I'm looking for help with: Improving my frontend development and mastering cloud deployment (Render, GitHub Actions).<br>Ask me about: Organizing codebases, Python scripts, or student productivity tools.<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:23273875) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ongamak7778) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kubhekyo@gmail.com) 
